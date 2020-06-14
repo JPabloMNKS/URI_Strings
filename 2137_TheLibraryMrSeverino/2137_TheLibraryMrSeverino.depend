@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592079954 source:e:\codigos\c++ codeblocks\c++ uri\strings\2137_thelibrarymrseverino\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

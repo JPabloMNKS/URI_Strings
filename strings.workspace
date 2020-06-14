@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="../../../Platzi/c++/1238_Combiner/1238_Combiner.cbp" />
+		<Project filename="../../../Platzi/c++/1253_CifraDeCesar/1253_CifraDeCesar.cbp" />
+		<Project filename="1257_ArrayHash/1257_ArrayHash.cbp" />
+		<Project filename="1873_Rock-paper-scissors-lizard-Spock/1873_Rock-paper-scissors-lizard-Spock.cbp" />
+		<Project filename="2137_TheLibraryMrSeverino/2137_TheLibraryMrSeverino.cbp" />
+		<Project filename="1168_Led/1168_Led.cbp" />
+		<Project filename="1241_FitorDontFitII/1241_FitorDontFitII.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

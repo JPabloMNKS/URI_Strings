@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1592075439 source:e:\codigos\c++ codeblocks\c++ uri\strings\1873_rock-paper-scissors-lizard-spock\main.cpp
+	<iostream>
+	<string>
+
